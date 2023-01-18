@@ -1,4 +1,4 @@
-FROM nginx:1.9.1
+FROM nginx
 
 ## Step 1:
 # Remove initial Nginx index file
